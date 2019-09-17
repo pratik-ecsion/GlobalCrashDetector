@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GlobalCrashDetector</string>
+    <string name="title_activity_crash_detector">CrashDetector</string>
+</resources>
